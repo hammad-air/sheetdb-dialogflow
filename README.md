@@ -1,23 +1,6 @@
-![GitHub User's stars](https://img.shields.io/github/stars/RajKKapadia?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/RajKKapadia?style=for-the-badge)
-
 # Connect Google Sheet to Dialogflow
 Hey everyone, if you are looking for a connection between Google Sheet and Dialogflow, then you are welcome read more. You will learn how to connect your existing Dialogflow agent to Google Sheet and generate Dialogflow agent response from Google Sheet...
 
-So, what are you waiting for, let's get started.
-
-## Youtube
-I have recorded a quick tutorial on this topic, you can watch it [here]().
-
-### Things you will need
-* GCP account, a project, service account credentials for that project
-* Enable Google Sheet API use from the GCP console, see the video for more details
-* Dialogflow agent
-    > some knowledge of Dialogflow agent
-* NGROK for exposing our local server to internet for testing
-    > get it from [here](https://ngrok.com/)
-* NodeJS as a programing tool
-    > install it from [here](https://nodejs.org/en/download/)
 
 ### How to use it
 To replicate the work of this repository and run it locally, you need to follow these steps:
